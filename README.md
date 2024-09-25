@@ -1,12 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FF5600&background=000000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Dark_Net)](https://git.io/typing-svg)
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&background=000000&width=435&lines=A+passionate+Software+Engineering;+from+Bangladesh)](https://git.io/typing-svg)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dark-net-604&label=Profile%20views&color=0e75b6&style=flat" alt="dark-net-604" /> </p>
-
 <img src="https://github.com/MRVIVEK-CODER/Decompiler/blob/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif" alt="" border="0" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dark-net-604" alt="dark-net-604" /></a> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hannan-404" alt="htr-tech" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=htr-tech&label=Profile%20views&color=eb4d3d&style=flat-square" alt="htr-tech" /> </pu>
+</i></b></h3>
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+
 
 - 🔭 I’m currently working on **Software Engineering**
 
